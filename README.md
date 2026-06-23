@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Aleksandur!
+I'm a student of Information Technologies in Industry at Technical University of Sofia.
 
-<!--
-**Aleksandur21/Aleksandur21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+.Studying Information Technologies in Industry at Technical University of Sofia
+.Interested in programming and software development
+.Working with Python and C
+.Constantly learning and improving my skills
+.Enjoy solving technical challenges and building projects
 
-Here are some ideas to get you started:
+Technologies & Tools
+.Python
+.C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+.Object-Oriented Programming
+.Algorithms and Data Structures
+.Software Development
+
+Contact
+.Email: Sasho.2kl@gmail.com

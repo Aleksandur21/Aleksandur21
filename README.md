@@ -12,8 +12,8 @@ I'm a student of Information Technologies in Industry at Technical University of
 
 ## 🛠️ Technologies & Tools
 
-- Python
-- C
+- Languages:  Python, C
+- Tools:  Git, GitHub, VS Code
 
 ## 📚 Currently Learning
 
@@ -23,4 +23,4 @@ I'm a student of Information Technologies in Industry at Technical University of
 
 ## 📫 Contact
 
-- Email: Sasho.2kl@gmail.com
+- Email:  Sasho.2kl@gmail.com

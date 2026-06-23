@@ -2,8 +2,8 @@
  I'm a student of Information Technologies in Industry at Technical University of Sofia.
 
  👨‍💻About Me
- -Studying Information Technologies in Industry at Technical University of Sofia  
- -Interested in programming and software development  
+ -Studying Information Technologies in Industry at Technical University of Sofia<br>
+ -Interested in programming and software development<br>
  -Working with Python and C  
  -Constantly learning and improving my skills
  -Enjoy solving technical challenges and building projects
